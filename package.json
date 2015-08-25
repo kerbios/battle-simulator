@@ -1,0 +1,22 @@
+{
+  "name": "battle-simulator",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kerbios/battle-simulator.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Artem Deulia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kerbios/battle-simulator/issues"
+  },
+  "homepage": "https://github.com/kerbios/battle-simulator"
+}
