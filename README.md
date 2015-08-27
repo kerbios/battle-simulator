@@ -10,7 +10,10 @@ You can install in by cloning this repository:
 ```
 git clone https://github.com/kerbios/battle-simulator.git
 ```
-
+Then
+```
+npm i
+```
 ## Usage
 
 ```
