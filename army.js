@@ -30,11 +30,3 @@ process.on('message', function(msg) {
             process.exit(0);
     }
 });
-
-process.on('close', function (code) {
-    console.log('Our army defeated close' + code);
-});
-
-process.on('exit', function(code) {
-    console.log('Our army defeated exit' + code);
-});
