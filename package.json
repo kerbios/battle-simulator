@@ -4,6 +4,7 @@
   "description": "test",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/kerbios/battle-simulator/issues"
   },
-  "homepage": "https://github.com/kerbios/battle-simulator"
+  "homepage": "https://github.com/kerbios/battle-simulator",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "q": "^1.4.1"
+  }
 }

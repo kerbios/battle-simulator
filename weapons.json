@@ -1,0 +1,22 @@
+[
+  {
+    "item": "sword",
+    "damage": 5
+  },
+  {
+    "item": "bow",
+    "damage": 8
+  },
+  {
+    "item": "machine-gun",
+    "damage": 22
+  },
+  {
+    "item": "tank",
+    "damage": 40
+  },
+  {
+    "item": "laser",
+    "damage": 60
+  }
+]
